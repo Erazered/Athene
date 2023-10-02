@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class marchePersonnage : MonoBehaviour
+public class MarchePersonnage : MonoBehaviour
 {
     // Start is called before the first frame update
     public float speed =5f;
@@ -25,7 +25,7 @@ public class marchePersonnage : MonoBehaviour
        makeAnimation(moveHorizontal,moveVertical); 
        
     }
-    void makeAnimation(float dirx,float diry){
+    void makeAnimation(float dirx, float diry){
         if(dirx==0 && diry==0)
         {
          anim.SetInteger("dir", 0);   
