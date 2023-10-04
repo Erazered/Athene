@@ -1329,10 +1329,10 @@ MonoBehaviour:
   - retourner discuter avec le premier ministre
   - rentrer a la maison
   messagesQuetes:
-  - vous aver discuter avec votre colegue
-  - vous venez de poser votre candidature
+  - vous devez discuter avec votre colegue
+  - vous devez poser votre candidature
   - 
-  - vous aver discuter avec votre colegue
+  - vous devez rediscuter avec votre colegue
   - vous etes chez vous
   congratulations:
   - Vous avez reussis
